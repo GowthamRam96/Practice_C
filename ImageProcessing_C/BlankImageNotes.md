@@ -1,4 +1,4 @@
-Mat::Mat(int rows, int cols, int type, const Scalar& s)
+<b>Mat::Mat(int rows, int cols, int type, const Scalar& s)</b>
 
 This constructor will create a Mat object with specified number of rows and number of cols and initialize each element with the value given in s.
   - **rows** - Number of rows in the 2D array ( i.e. - height of the image in pixels )
