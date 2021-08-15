@@ -1,1 +1,1 @@
-# Practice_C and C++
+# Practice_C & C++
