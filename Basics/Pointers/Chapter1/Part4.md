@@ -29,3 +29,4 @@ printf(" pi - Address: %p value: %p\n",&pi, pi);
 printf(" pci - Address: %p value: %p\n",&pci, pci);
 ```
 
+![image](https://user-images.githubusercontent.com/84629235/133653203-1ac3ada3-5527-4a2c-b870-bffe3e035ee2.png)
