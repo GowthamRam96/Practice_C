@@ -12,3 +12,5 @@ the operating system may crash.
 
 ![image](https://user-images.githubusercontent.com/84629235/134447486-80b040b4-ee2c-412c-a077-e98cb8face97.png)
 
+The variable chunk is assigned memory from the heap. However, this memory is not freed before another block of memory is assigned to it.
+At minimum, memory is not being used efficiently.
