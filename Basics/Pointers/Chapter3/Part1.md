@@ -17,4 +17,7 @@ result in the values of _n1_ and _n2_ being modified.
 # Back end Heap and Stack
 
 Program stack before swap - left
+
 Program stack after swap - right
+
+![image](https://user-images.githubusercontent.com/84629235/136963420-f0358cf9-707a-4902-8310-9e9d97f11e52.png)
